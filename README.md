@@ -49,11 +49,11 @@
   ******
 ### - :computer: Projects
 
-#### Repair Service
+#### Repair Service In Process
 
   - La plataforma web combina Python con Django para el backend, junto con React.js para el frontend. Utiliza REST APIs para acceder y gestionar datos, integrando funcionalidades de Data Science para análisis y visualización.
 <p align='center'>     
-   <a align='center' href="https://github.com/EliFBaque/repair-service">
+   <a align='center' href="">
       <img src="https://github.com/EliFBaque/ElifBaque/assets/88685433/fd8ae98a-ba3b-47f9-ae33-dcb30708c032"  width="50%">  
     </a>
 </p>
@@ -64,6 +64,6 @@
 
 <p align='center'>     
    <a align='center' href="https://lookerstudio.google.com/reporting/870e3328-fbb9-4bd2-88bb-399d07d24ac5">
-      <img src="" alt="Dashboard" width="50%">  
+      <img src="https://github.com/EliFBaque/ElifBaque/blob/b592e1e96e4966bd8c0d3d2189845c0263d48da7/Dashboard.png" alt="Dashboard" width="50%">  
     </a>
 </p>
