@@ -58,32 +58,12 @@
     </a>
 </p>
 
-#### Game web
+#### Dashboard Data Analitic
 
-  - La página web, creada con HTML, CSS y JavaScript, se enfoca en juegos utilizando una API para mostrar títulos populares. Con un diseño atractivo y funcionalidades interactivas, ofrece información detallada de cada juego para una experiencia completa de los amantes de los videojuegos. 
+  - Es un proyecto para la ONG Potenciar Solidarios, desarrollando un dashboard interactivo para optimizar el seguimiento de las actividades y mejorar la toma de decisiones. Este trabajo permite visualizar métricas clave y gestionar recursos de manera eficiente. 
 
 <p align='center'>     
-   <a align='center' href="urltoproject">
-      <img src="https://github.com/EliFBaque/ElifBaque/assets/88685433/a717207c-649a-43e5-bf96-22e84be1ab7a" alt="GameWeb" width="50%">  
+   <a align='center' href="https://lookerstudio.google.com/reporting/870e3328-fbb9-4bd2-88bb-399d07d24ac5">
+      <img src="" alt="Dashboard" width="50%">  
     </a>
 </p>
-
-
-    
-
-
-
-<!--
-**cescontreras/cescontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
