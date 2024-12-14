@@ -58,9 +58,9 @@
     </a>
 </p>
 
-#### Dashboard Data Analitic
+#### Dashboard Potenciar Solidario
 
-  - Es un proyecto para la ONG Potenciar Solidarios, desarrollando un dashboard interactivo para optimizar el seguimiento de las actividades y mejorar la toma de decisiones. Este trabajo permite visualizar métricas clave y gestionar recursos de manera eficiente. 
+  - Es un proyecto para la ONG Potenciar Solidario, desarrollando un dashboard interactivo para optimizar el seguimiento de las actividades y mejorar la toma de decisiones. Este trabajo permite visualizar métricas clave y gestionar recursos de manera eficiente. 
 
 <p align='center'>     
    <a align='center' href="https://lookerstudio.google.com/reporting/870e3328-fbb9-4bd2-88bb-399d07d24ac5">
