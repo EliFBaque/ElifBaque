@@ -1,10 +1,10 @@
-# Hi there! I'm Elián 👋
+# Hi there! I'm Elián Baqué 👋
 
     
    <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Elián LinkedIn Profile" width="440px" align="right">     
  
 
-## Backend Developer 
+## Python Developer - Data Analyst
 <p width='40%' height="100%"align="center"> 
    <a> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a>   
    <a> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
