@@ -46,24 +46,35 @@
    <p><label>elifbaque@gmail.com</label></p>
    
    
-  ******
+******
 ### - :computer: Projects
 
-#### Repair Service In Process
+#### Hospital Mobile App ( In development )
 
-  - La plataforma web combina Python con Django para el backend, junto con React.js para el frontend. Utiliza REST APIs para acceder y gestionar datos, integrando funcionalidades de Data Science para análisis y visualización.
+  - A mobile application that seeks to improve the integration of various medical processes. Facilitate the management of medical appointments, discounts on medications, and patient management. Using React Native, along with Django for the APIS and PostgreSQL as a database.
+    
 <p align='center'>     
    <a align='center' href="">
-      <img src="https://github.com/EliFBaque/ElifBaque/assets/88685433/fd8ae98a-ba3b-47f9-ae33-dcb30708c032"  width="50%">  
+      <img src="https://github.com/EliFBaque/ElifBaque/blob/289b40174feb9dfeb53da29003a1c6d5e21e1687/MobileApp.png"  width="50%">  
     </a>
 </p>
 
 #### Dashboard Potenciar Solidario
 
-  - Es un proyecto para la ONG Potenciar Solidario, desarrollando un dashboard interactivo para optimizar el seguimiento de las actividades y mejorar la toma de decisiones. Este trabajo permite visualizar métricas clave y gestionar recursos de manera eficiente. 
+  - It is a project for the NGO Potenciar Solidario, developing an interactive dashboard to optimize the monitoring of activities and improve decision making. This work allows you to visualize key metrics and manage resources efficiently 
 
 <p align='center'>     
    <a align='center' href="https://lookerstudio.google.com/reporting/870e3328-fbb9-4bd2-88bb-399d07d24ac5">
       <img src="https://github.com/EliFBaque/ElifBaque/blob/b592e1e96e4966bd8c0d3d2189845c0263d48da7/Dashboard.png" alt="Dashboard" width="50%">  
+    </a>
+</p>
+
+#### Repair Service In Process
+
+  - The web platform combines Python with Django for the backend, along with React.js for the frontend. It uses REST APIs to access and manage data, integrating Data Analysis functionalities for analysis and visualization.
+
+<p align='center'>     
+   <a align='center' href="">
+      <img src="https://github.com/EliFBaque/ElifBaque/assets/88685433/fd8ae98a-ba3b-47f9-ae33-dcb30708c032"  width="50%">  
     </a>
 </p>
