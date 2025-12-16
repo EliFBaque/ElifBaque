@@ -4,15 +4,12 @@
    <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Elián LinkedIn Profile" width="440px" align="right">     
  
 
-## Python Developer - Data Analyst
+## Backend Developer Python | Django | APIs REST | PostgreSQL
 <p width='40%' height="100%"align="center"> 
-   <a> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a>   
-   <a> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a>
-   <a> <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> </a>    
+   <a> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a>    
  </p>
  <p width='40%' align="center">
    <a> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539" alt="postgresql" width="40" height="40"/> </a>
-   <a> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/> </a>
    <a> <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/> </a>
     <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    
