@@ -28,21 +28,7 @@
     <a></a> 
     <a></a> 
  </p>
-  
-  
-******
-### - 📫 How to reach me: ...
-   <p>
-      <a href="https://www.linkedin.com/in/elianbaque/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Elián Baqué LinkedIn Profile" height="30" width="30">
-      </a>   
-      <a align='right' href="mailto:elifbaque@gmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
-   </p>
-   <p><label>elifbaque@gmail.com</label></p>
-   
-   
+     
 ******
 ### - :computer: Projects
 
