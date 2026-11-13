@@ -1,63 +1,47 @@
-# Hi there! I'm Elián Baqué 👋
+# Hi, I'm Elian Baque
 
-    
-   <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Elián LinkedIn Profile" width="440px" align="right">     
- 
+**Python Backend Developer · Django REST Framework · PostgreSQL**
 
-## Backend Developer Python | Django | APIs REST | PostgreSQL
-<p width='40%' height="100%"align="center"> 
-   <a> <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> </a>    
- </p>
- <p width='40%' align="center">
-   <a> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539" alt="postgresql" width="40" height="40"/> </a>
-   <a> <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/> </a>
-    <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   
- </p>
- <p width='40%' align="center">    
-   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
-   <a> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> </a>
-   <a> <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" alt="django" width="40" height="40"/> </a>
-   <a> <img src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg" alt="pytest" width="40" height="40"/> </a>
-   <a> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-   <a> <img src="https://icongr.am/devicon/bitbucket-original-wordmark.svg?size=128&color=currentColor" alt="bitbucket" width="40" height="40"/> </a>
- </p>
+At MobyDigital, I developed REST APIs and an API gateway. For Magnify, I used NumPy and pandas to reduce a data-loading bottleneck involving 360,000 records.
 
- <p align="center">
-    <a> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
-    <a></a> 
-    <a></a> 
- </p>
-     
-******
-### - :computer: Projects
+## Selected projects
 
-#### Hospital Mobile App ( In development )
+### Electronics Repair Manager
 
-  - A mobile application that seeks to improve the integration of various medical processes. Facilitate the management of medical appointments, discounts on medications, and patient management. Using React Native, along with Django for the APIS and PostgreSQL as a database.
-    
-<p align='center'>     
-   <a align='center' href="">
-      <img src="https://github.com/EliFBaque/ElifBaque/blob/289b40174feb9dfeb53da29003a1c6d5e21e1687/MobileApp.png"  width="50%">  
-    </a>
-</p>
+A web app for electronics repair shops. I'm building it to give technicians one place to look up customer records and repair histories instead of searching paper records or WhatsApp chats. I plan to add income and expense reports that adjust historical amounts for cumulative inflation in Argentina.
 
-#### Dashboard Potenciar Solidario
+**Stack:** React, Django, PostgreSQL, Docker.
 
-  - It is a project for the NGO Potenciar Solidario, developing an interactive dashboard to optimize the monitoring of activities and improve decision making. This work allows you to visualize key metrics and manage resources efficiently 
+[Frontend repository](https://github.com/EliFBaque/electronic-managment) · Private backend
 
-<p align='center'>     
-   <a align='center' href="https://lookerstudio.google.com/reporting/870e3328-fbb9-4bd2-88bb-399d07d24ac5">
-      <img src="https://github.com/EliFBaque/ElifBaque/blob/b592e1e96e4966bd8c0d3d2189845c0263d48da7/Dashboard.png" alt="Dashboard" width="50%">  
-    </a>
-</p>
+**Design concept**
 
-#### Repair Service In Process
+Fictional data showing a TV repair from intake through final testing.
 
-  - The web platform combines Python with Django for the backend, along with React.js for the frontend. It uses REST APIs to access and manage data, integrating Data Analysis functionalities for analysis and visualization.
+![Electronics Repair Manager mockup showing the repair history of a fictional TV](./assets/electronics-repair-manager-concept.png)
 
-<p align='center'>     
-   <a align='center' href="">
-      <img src="https://github.com/EliFBaque/ElifBaque/assets/88685433/fd8ae98a-ba3b-47f9-ae33-dcb30708c032"  width="50%">  
-    </a>
-</p>
+### Inventory and Invoicing Desktop App
+
+I'm building a desktop inventory app for a client with Python and CustomTkinter. The invoicing workflow is designed to integrate with Argentina's ARCA electronic invoicing system.
+
+**Sales screen · Demo data**
+
+![Desktop app sales screen with a demo checkout and receipt preview](./assets/inventory-and-invoicing-demo.png)
+
+### Hospital Mobile App
+
+An early concept for a mobile app that helps patients manage appointments. The project has an initial codebase built with React Native, Django REST Framework, PostgreSQL, and Docker.
+
+**Design concept**
+
+![Hospital Mobile App wireframes for sign-in, registration, and appointment scheduling](./assets/hospital-mobile-app-concept.png)
+
+## Tech stack
+
+- **Backend:** Python, Django, Django REST Framework, REST APIs
+- **Data:** SQL, PostgreSQL, SQLite, NumPy, pandas
+- **Desktop UI:** CustomTkinter
+- **Testing:** pytest
+- **Tools:** Docker, Git, pgAdmin, Postman
+
+[LinkedIn](https://www.linkedin.com/in/elianbaque/)
